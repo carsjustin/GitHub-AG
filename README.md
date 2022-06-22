@@ -1,4 +1,4 @@
-# Auto-green
+# Auto-Green
 
 [![Build Status](https://github.com/carsjustin/GitHub-AG/workflows/GitHub-AG/badge.svg?branch=main)](https://github.com/carsjustin/GitHub-AG/actions)
 
@@ -67,4 +67,4 @@
 
 ## License
 
-[Auto-green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[Auto-Green](https://github.com/justjavac/auto-green) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
