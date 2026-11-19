@@ -1,6 +1,6 @@
 # Auto-Green
 
-[![Build Status](https://github.com/carsjustin/GitHub-AG/workflows/GitHub-AG/badge.svg?branch=main)](https://github.com/carsjustin/GitHub-AG/actions)
+[![GitHub-AG 工作流程狀態](https://github.com/carsjustin/GitHub-AG/actions/workflows/GitHub-AG.yml/badge.svg?branch=main)](https://github.com/carsjustin/GitHub-AG/actions/workflows/GitHub-AG.yml)
 
 自動保持 GitHub 提交狀態常綠。
 
