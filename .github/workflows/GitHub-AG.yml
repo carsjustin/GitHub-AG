@@ -22,7 +22,7 @@ jobs:
           git config --local user.name ${{secrets.NAME}}
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          date +"%Y-%m-%d %H:%M:%S.%N" >> GitHub-AG記錄檔.txt
+          date +"%Y-%m-%d %H:%M:%S.%N" >> GitHub-AG 執行記錄檔.txt
           git add .
           git commit --allow-empty -m "A commit a day keeps you Happy Everday!"
           git push
